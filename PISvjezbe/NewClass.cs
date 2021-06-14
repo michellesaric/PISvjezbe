@@ -4,6 +4,9 @@ public class Class
 {
 	public Class()
 	{
-		public string Hello {get; set;}
+		public void Nothing() 
+		{
+
+		}
 	}
 }
