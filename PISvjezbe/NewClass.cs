@@ -2,11 +2,8 @@
 
 public class Class
 {
-	public Class()
+	public void Something()
 	{
-		public void Nothing() 
-		{
 
-		}
 	}
 }
